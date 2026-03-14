@@ -16,12 +16,11 @@ A Document Question Answering System built with Transformers and Streamlit, allo
 4. Optional: check the sidebar to see chapters in the document.
 
 ## Project Structure
-Document_QA_System/
-app.py
-qa_model.py
-requirements.txt
-README.md
-example.pdf
+- Document_QA_System/
+  - app.py
+  - qa_model.py
+  - README.md
+  - example.pdf
 
 ## Technologies Used
 - Python 3.10+
