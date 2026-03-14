@@ -18,7 +18,6 @@ A Document Question Answering System built with Transformers and Streamlit, allo
 ## Project Structure
 - Document_QA_System/
   - app.py
-  - qa_model.py
   - README.md
   - example.pdf
 
