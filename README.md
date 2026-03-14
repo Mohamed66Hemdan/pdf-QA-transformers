@@ -37,5 +37,4 @@ example.pdf
 - Improve UI with interactive elements for selecting chapters/questions.
 
 ## Screenshot
-(Optional: add GIF or screenshot of the Streamlit app here)
-
+![Description](Picture1.png)
