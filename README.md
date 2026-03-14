@@ -36,8 +36,6 @@ example.pdf
 - Add multi-language support.
 - Improve UI with interactive elements for selecting chapters/questions.
 
-## Demo / Screenshot
+## Screenshot
 (Optional: add GIF or screenshot of the Streamlit app here)
 
-## License
-This project is licensed under the MIT License.
